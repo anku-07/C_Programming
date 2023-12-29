@@ -1,4 +1,4 @@
-// Fibonacci series using loop
+// Fibonacci series using loop.
 #include<stdio.h>
 int main(){
     int fib,num1 = 0,num2 = 1,next;
