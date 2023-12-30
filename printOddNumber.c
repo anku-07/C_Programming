@@ -1,4 +1,5 @@
 // Write a program in c to print all odd number upto a range;
+
 #include<stdio.h>
 int main(){
     int number;
