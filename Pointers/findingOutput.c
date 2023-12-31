@@ -11,6 +11,9 @@ int main()
     *ptr += 5;
     printf("X = %d\n", x);
     printf("*ptr = %d\n", *ptr);
+    (*ptr) ++;
+    printf("X = %d\n", x);
+    printf("*ptr = %d\n", *ptr);
 
     return 0;
 }
