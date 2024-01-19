@@ -8,7 +8,7 @@ int main(){
     printf("Enter value A : ");
     for(r = 1; r <= i; r++){
         for(c = 1; c <= j; c++){
-            scanf("%d"&a[r][c]);
+            scanf("%d",&a[r][c]);
         }
     }
     printf("Enter value B : ");
